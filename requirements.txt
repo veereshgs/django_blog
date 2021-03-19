@@ -5,7 +5,7 @@ django-cleanup==2.1.0
 django-crispy-forms==1.7.2
 django-heroku==0.3.1
 django-js-asset==1.0.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 gunicorn==20.0.4
 psycopg2==2.8.4
 pytz==2019.3
